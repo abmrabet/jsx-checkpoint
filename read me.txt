@@ -1,0 +1,3 @@
+In this checkpoint I made 3 components and I exported them to be imported in App.js 
+
+I used JSX and React components and a little bit of CSS to create this page.
